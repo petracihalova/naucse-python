@@ -194,6 +194,33 @@ sessions:
 
   - title: Další odkazy a materiály
 
+- slug: exceptions
+  title: Chyby a výjimky
+  date: 2022-11-16
+  materials: 
+
+  - title: Studijní materiály
+
+  - lesson: beginners/exceptions
+  - lesson: beginners/modules
+  - lesson: beginners/circular-imports
+
+  - title: Videa ke shlédnutí
+
+  - title: (17:11) Výjimky - video
+    url: https://youtu.be/s-P5mBjUJBw
+  - title: (10:32) Moduly - video
+    url: https://youtu.be/LFp_x7OgCBU
+  - title: (5:56) Cyklické importy - video
+    url: https://youtu.be/bZ4iiSDe_4g
+
+  - title: Další odkazy a materiály
+
+  - title: Výjimkový tahák (PDF)
+    url: https://pyvec.github.io/cheatsheets/exceptions/exceptions-cs.pdf
+    type: cheatsheet
+
+
 # - slug: slug4
 #   title: ccc
 #   date: 2022-11-09
