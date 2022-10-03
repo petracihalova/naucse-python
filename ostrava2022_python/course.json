@@ -1499,6 +1499,7 @@
             }
         ],
         "source_file": "courses/ostrava2022_python.yml",
+        "subtitle": "Ostrava - podzim 2022",
         "time_description": "každou středu od 17:00 do 19:00",
         "timezone": "Europe/Prague",
         "title": "Začátečnický kurz Pythonu",
