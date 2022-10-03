@@ -90,6 +90,30 @@
                 "static_files": {},
                 "title": "Užitečné funkce"
             },
+            "beginners/circular-imports": {
+                "pages": {
+                    "index": {
+                        "attribution": [
+                            "Pro PyLadies Brno napsal Petr Viktorin, 2014-2017."
+                        ],
+                        "content": {
+                            "path": "circular-imports/index.html"
+                        },
+                        "license": "cc-by-sa-40",
+                        "slug": "index",
+                        "solutions": [],
+                        "source_file": "lessons/beginners/circular-imports/index.md",
+                        "title": "Cyklické importy",
+                        "vars": {
+                            "coach-present": true,
+                            "pyladies": true
+                        }
+                    }
+                },
+                "source_file": "lessons/beginners/circular-imports/info.yml",
+                "static_files": {},
+                "title": "Cyklické importy"
+            },
             "beginners/cmdline": {
                 "pages": {
                     "index": {
@@ -183,6 +207,30 @@
                 "source_file": "lessons/beginners/def/info.yml",
                 "static_files": {},
                 "title": "Definice funkcí"
+            },
+            "beginners/exceptions": {
+                "pages": {
+                    "index": {
+                        "attribution": [
+                            "Pro PyLadies Brno napsal Petr Viktorin, 2014-2017."
+                        ],
+                        "content": {
+                            "path": "exceptions/index.html"
+                        },
+                        "license": "cc-by-sa-40",
+                        "slug": "index",
+                        "solutions": [],
+                        "source_file": "lessons/beginners/exceptions/index.md",
+                        "title": "Výjimky",
+                        "vars": {
+                            "coach-present": true,
+                            "pyladies": true
+                        }
+                    }
+                },
+                "source_file": "lessons/beginners/exceptions/info.yml",
+                "static_files": {},
+                "title": "Výjimky"
             },
             "beginners/expressions": {
                 "pages": {
@@ -570,6 +618,30 @@
                 "source_file": "lessons/beginners/local-variables/info.yml",
                 "static_files": {},
                 "title": "Lokální proměnné"
+            },
+            "beginners/modules": {
+                "pages": {
+                    "index": {
+                        "attribution": [
+                            "Pro PyLadies Brno napsal Petr Viktorin, 2014-2017."
+                        ],
+                        "content": {
+                            "path": "modules/index.html"
+                        },
+                        "license": "cc-by-sa-40",
+                        "slug": "index",
+                        "solutions": [],
+                        "source_file": "lessons/beginners/modules/index.md",
+                        "title": "Moduly",
+                        "vars": {
+                            "coach-present": true,
+                            "pyladies": true
+                        }
+                    }
+                },
+                "source_file": "lessons/beginners/modules/info.yml",
+                "static_files": {},
+                "title": "Moduly"
             },
             "beginners/nested-traceback": {
                 "pages": {
@@ -1368,6 +1440,62 @@
                 "slug": "functions",
                 "source_file": "courses/ostrava2022_python.yml",
                 "title": "Vlastní funkce"
+            },
+            {
+                "date": "2022-11-16",
+                "materials": [
+                    {
+                        "title": "Studijní materiály",
+                        "type": "special"
+                    },
+                    {
+                        "lesson_slug": "beginners/exceptions",
+                        "title": "Výjimky",
+                        "type": "lesson"
+                    },
+                    {
+                        "lesson_slug": "beginners/modules",
+                        "title": "Moduly",
+                        "type": "lesson"
+                    },
+                    {
+                        "lesson_slug": "beginners/circular-imports",
+                        "title": "Cyklické importy",
+                        "type": "lesson"
+                    },
+                    {
+                        "title": "Videa ke shlédnutí",
+                        "type": "special"
+                    },
+                    {
+                        "external_url": "https://youtu.be/s-P5mBjUJBw",
+                        "title": "(17:11) Výjimky - video",
+                        "type": "none-link"
+                    },
+                    {
+                        "external_url": "https://youtu.be/LFp_x7OgCBU",
+                        "title": "(10:32) Moduly - video",
+                        "type": "none-link"
+                    },
+                    {
+                        "external_url": "https://youtu.be/bZ4iiSDe_4g",
+                        "title": "(5:56) Cyklické importy - video",
+                        "type": "none-link"
+                    },
+                    {
+                        "title": "Další odkazy a materiály",
+                        "type": "special"
+                    },
+                    {
+                        "external_url": "https://pyvec.github.io/cheatsheets/exceptions/exceptions-cs.pdf",
+                        "title": "Výjimkový tahák (PDF)",
+                        "type": "cheatsheet"
+                    }
+                ],
+                "serial": "6",
+                "slug": "exceptions",
+                "source_file": "courses/ostrava2022_python.yml",
+                "title": "Chyby a výjimky"
             }
         ],
         "source_file": "courses/ostrava2022_python.yml",
