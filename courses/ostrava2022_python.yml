@@ -196,7 +196,7 @@ sessions:
   - title: Další odkazy a materiály
 
 - slug: exceptions
-  title: Chyby a výjimky
+  title: Chyby a moduly
   date: 2022-11-16
   materials: 
 
@@ -221,10 +221,108 @@ sessions:
     url: https://pyvec.github.io/cheatsheets/exceptions/exceptions-cs.pdf
     type: cheatsheet
 
+- slug: test
+  title: Rozhraní a testy
+  date: 2022-11-23
+  materials: 
+
+  - title: Studijní materiály
+
+  - lesson: beginners/interfaces
+  - lesson: beginners/testing
+  - lesson: beginners/main-module
+
+  - title: Videa ke shlédnutí
+
+  - title: (6:51) Rozhraní - video
+    url: https://youtu.be/xQ7J_R8VAJQ
+  - title: (15:25) Testování - video
+    url: https://youtu.be/-KS_VRerZQ0
+  - title: (10:12) Spouštěcí moduly - video
+    url: https://youtu.be/S6HyFIUyPTw
+  - title: (3:53) Negativní testy - video
+    url: https://youtu.be/s-KPxX5ZcMs
+
+  - title: Další odkazy a materiály
+
+- slug: list
+  title: Seznamy a n-tice
+  date: 2022-11-30
+  materials: 
+
+  - title: Studijní materiály
+
+  - lesson: beginners/list
+  - lesson: beginners/tuple
+  - lesson: beginners/nested-list
+
+  - title: Videa ke shlédnutí
+
+  - title: (11:10) Seznamy - Úvod - video
+    url: https://youtu.be/abIMJjb9Nxw
+  - title: (32:52) Co všechno umí seznamy - video
+    url: https://youtu.be/-gINX_pOtQo
+  - title: (9:51) N-tice - video
+    url: https://youtu.be/dObtA75Ouzk
+
+
+  - title: Další odkazy a materiály
+
+- slug: file
+  title: Sekvence a soubory
+  date: 2022-12-07
+  materials: 
+
+  - title: Studijní materiály
+
+  - lesson: beginners/range
+  - lesson: beginners/zip-enumerate
+  - lesson: beginners/files
+  - lesson: beginners/with
+
+
+  - title: Videa ke shlédnutí
+
+  - title: (5:02) Range - video
+    url: https://youtu.be/UtyIKgsnLmk
+  - title: (16:39) Iterátory n-tic (enum & zip) - video
+    url: https://youtu.be/JUCb7iiGsW4
+  - title: (13:17) Soubory - video
+    url: https://youtu.be/1X4TU_thg7s
+
+
+  - title: Další odkazy a materiály
+
+- slug: dict
+  title: Slovníky
+  date: 2022-12-14
+  materials: 
+
+  - title: Studijní materiály
+
+  - lesson: beginners/dict
+  - lesson: beginners/dict-with-list-values
+  - lesson: intro/json
+
+  - title: Videa ke shlédnutí
+
+  - title: (19:23) Slovníky - video
+    url: https://youtu.be/OVnUhWwd2C0
+  - title: (4:42) Více hodnot v jednom záznamu slovníku - video
+    url: https://youtu.be/pQ268T2IZCo
+  - title: (12:54) Kódování dat - JSON - video
+    url: https://youtu.be/nPUSH7gSI4o
+    
+  - title: Další odkazy a materiály
+
+  - title: Slovníkový tahák (PDF)
+    url: https://pyvec.github.io/cheatsheets/dicts/dicts-cs.pdf
+    type: cheatsheet
+
 
 # - slug: slug4
 #   title: ccc
-#   date: 2022-11-09
+#   date: 2022-12-07
 #   materials: 
 
 #   - title: Studijní materiály
