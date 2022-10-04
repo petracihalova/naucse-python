@@ -303,6 +303,9 @@ sessions:
   - lesson: beginners/dict
   - lesson: beginners/dict-with-list-values
   - lesson: intro/json
+  - title: Ukázka jednoduchého API
+    type: lesson
+    url: http://pyladies.cz/v1/s011-dicts/simple-api.html
 
   - title: Videa ke shlédnutí
 
@@ -319,16 +322,77 @@ sessions:
     url: https://pyvec.github.io/cheatsheets/dicts/dicts-cs.pdf
     type: cheatsheet
 
+- slug: class
+  title: Třídy a dědičnost
+  date: 2022-12-21
+  materials: 
 
-# - slug: slug4
-#   title: ccc
-#   date: 2022-12-07
-#   materials: 
+  - title: Studijní materiály
 
-#   - title: Studijní materiály
+  - lesson: beginners/class
+  - lesson: beginners/inheritance
 
+  - title: Videa ke shlédnutí
 
-#   - title: Videa ke shlédnutí
+  - title: (22:26) Třídy - video
+    url: https://youtu.be/x4iJDPOSv4A
+  - title: (12:58) Dědičnost - video
+    url: https://youtu.be/mqxMmSFiASw
 
+  - title: Další odkazy a materiály
 
-#   - title: Další odkazy a materiály
+- slug: questions
+  title: Opakování
+  description: V této lekci bude prostor zopakovat si vše, co není jasné a odpovědět na vaše dotazy.
+  date: 2023-01-04
+
+- slug: pyglet
+  title: Grafika
+  date: 2023-01-11
+  materials: 
+
+  - title: Studijní materiály
+
+  - lesson: intro/pyglet
+  
+  - title: "Praktické cvičení: Pong - mimo kurz navíc"
+
+  - lesson: projects/pong
+  - title: Kód celé hry Pong
+    url:  http://pyladies.cz/v1/s012-pyglet/pong.py
+
+  - title: Další odkazy a materiály
+
+  - title: Tahák na Pyglet
+    url: https://pyvec.github.io/cheatsheets/pyglet/pyglet-basics-cs.pdf
+    type: cheatsheet
+
+- slug: final_projects
+  title: Závěrečný projekt
+  date: 2023-01-18
+  materials: 
+
+  - title: Studijní materiály
+
+  - lesson: projects/asteroids
+  - lesson: projects/snake
+
+  - title: Další odkazy a materiály
+
+  - title: Tahák na geometrii a fyziku 2D her
+    url: https://pyvec.github.io/cheatsheets/game-physics/game-physics-cs.pdf
+    type: cheatsheet
+
+  - title: Množinový tahák
+    url: https://pyvec.github.io/cheatsheets/sets/sets-cs.pdf
+    type: cheatsheet
+
+- slug: final_projects_2
+  title: Pokračování závěrečného projektu
+  description: V této lekci budeme pokračovat v dalších fázích závěrečného projektu.
+  date: 2023-01-25
+
+- slug: end
+  title: Závěrečná hodina
+  description: Během závěrečné hodiny si předáme diplomy a seznámíme se s možnostmi pokračování studia
+  date: 2023-02-01
