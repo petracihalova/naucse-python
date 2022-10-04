@@ -1449,6 +1449,111 @@
                 },
                 "title": "Želva a cykly"
             },
+            "klondike/cards": {
+                "pages": {
+                    "index": {
+                        "attribution": [
+                            "Pro PyLadies Brno napsal Petr Viktorin, 2014-2019."
+                        ],
+                        "content": {
+                            "path": "cards/index.html"
+                        },
+                        "license": "cc-by-sa-40",
+                        "slug": "index",
+                        "solutions": [],
+                        "source_file": "lessons/klondike/cards/index.md",
+                        "title": "Klondike: Karty",
+                        "vars": {
+                            "coach-present": true,
+                            "pyladies": true
+                        }
+                    }
+                },
+                "source_file": "lessons/klondike/cards/info.yml",
+                "static_files": {
+                    "karty.py": {
+                        "path": "cards/karty.py"
+                    },
+                    "klondike.png": {
+                        "path": "cards/klondike.png"
+                    },
+                    "test_karty.py": {
+                        "path": "cards/test_karty.py"
+                    },
+                    "test_klondike.py": {
+                        "path": "cards/test_klondike.py"
+                    }
+                },
+                "title": "Klondike: Karty"
+            },
+            "klondike/decks": {
+                "pages": {
+                    "index": {
+                        "attribution": [
+                            "Pro PyLadies Brno napsal Petr Viktorin, 2014-2019."
+                        ],
+                        "content": {
+                            "path": "decks/index.html"
+                        },
+                        "license": "cc-by-sa-40",
+                        "slug": "index",
+                        "solutions": [],
+                        "source_file": "lessons/klondike/decks/index.md",
+                        "title": "Klondike: Balíčky",
+                        "vars": {
+                            "coach-present": true,
+                            "pyladies": true
+                        }
+                    }
+                },
+                "source_file": "lessons/klondike/decks/info.yml",
+                "static_files": {
+                    "game.png": {
+                        "path": "decks/game.png"
+                    },
+                    "klondike.png": {
+                        "path": "decks/klondike.png"
+                    }
+                },
+                "title": "Klondike: Balíčky"
+            },
+            "klondike/game": {
+                "pages": {
+                    "index": {
+                        "attribution": [
+                            "Pro PyLadies Brno napsal Petr Viktorin, 2014-2019."
+                        ],
+                        "content": {
+                            "path": "game/index.html"
+                        },
+                        "license": "cc-by-sa-40",
+                        "slug": "index",
+                        "solutions": [],
+                        "source_file": "lessons/klondike/game/index.md",
+                        "title": "Klondike: Hra",
+                        "vars": {
+                            "coach-present": true,
+                            "pyladies": true
+                        }
+                    }
+                },
+                "source_file": "lessons/klondike/game/info.yml",
+                "static_files": {
+                    "cards.png": {
+                        "path": "game/cards.png"
+                    },
+                    "game.png": {
+                        "path": "game/game.png"
+                    },
+                    "klondike.png": {
+                        "path": "game/klondike.png"
+                    },
+                    "ui.py": {
+                        "path": "game/ui.py"
+                    }
+                },
+                "title": "Klondike: Hra"
+            },
             "projects/asteroids": {
                 "pages": {
                     "index": {
@@ -2373,6 +2478,21 @@
                     {
                         "lesson_slug": "projects/snake",
                         "title": "Snake",
+                        "type": "lesson"
+                    },
+                    {
+                        "lesson_slug": "klondike/cards",
+                        "title": "Klondike: Karty",
+                        "type": "lesson"
+                    },
+                    {
+                        "lesson_slug": "klondike/decks",
+                        "title": "Klondike: Balíčky",
+                        "type": "lesson"
+                    },
+                    {
+                        "lesson_slug": "klondike/game",
+                        "title": "Klondike: Hra",
                         "type": "lesson"
                     },
                     {
