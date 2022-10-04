@@ -376,6 +376,9 @@ sessions:
 
   - lesson: projects/asteroids
   - lesson: projects/snake
+  - lesson: klondike/cards
+  - lesson: klondike/decks
+  - lesson: klondike/game
 
   - title: Další odkazy a materiály
 
