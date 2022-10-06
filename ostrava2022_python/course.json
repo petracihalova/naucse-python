@@ -38,6 +38,30 @@
                 "static_files": {},
                 "title": "⭐️ Úvodní informace ⭐️"
             },
+            "adm/refresh": {
+                "pages": {
+                    "index": {
+                        "attribution": [
+                            "Pro týmový kurz PyLadies napsala Petra Číhalová, 2022."
+                        ],
+                        "content": {
+                            "path": "refresh/index.html"
+                        },
+                        "license": "cc-by-sa-40",
+                        "slug": "index",
+                        "solutions": [],
+                        "source_file": "lessons/adm/refresh/index.md",
+                        "title": "⭐️ Opakování ⭐️",
+                        "vars": {
+                            "coach-present": true,
+                            "pyladies": true
+                        }
+                    }
+                },
+                "source_file": "lessons/adm/refresh/info.yml",
+                "static_files": {},
+                "title": "⭐️ Opakování ⭐️"
+            },
             "beginners/and-or": {
                 "pages": {
                     "index": {
@@ -2413,6 +2437,17 @@
             {
                 "date": "2023-01-04",
                 "description": "<p>V této lekci bude prostor zopakovat si vše, co není jasné a odpovědět na vaše dotazy.</p>",
+                "materials": [
+                    {
+                        "title": "Studijní materiály",
+                        "type": "special"
+                    },
+                    {
+                        "lesson_slug": "adm/refresh",
+                        "title": "⭐️ Opakování ⭐️",
+                        "type": "lesson"
+                    }
+                ],
                 "serial": "12",
                 "slug": "questions",
                 "source_file": "courses/ostrava2022_python.yml",
