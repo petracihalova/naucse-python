@@ -345,6 +345,11 @@ sessions:
   title: Opakování
   description: V této lekci bude prostor zopakovat si vše, co není jasné a odpovědět na vaše dotazy.
   date: 2023-01-04
+  materials:
+
+  - title: Studijní materiály
+
+  - lesson: adm/refresh
 
 - slug: pyglet
   title: Grafika
