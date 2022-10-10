@@ -15,6 +15,10 @@ long_description: |
     Jednotlivé lekce jsou určeny naprostým začátečnicím. Instrukce jsou uvedeny pro operační systémy Linux, Windows i macOS.
     
     Stránky samotných PyLadies najdeš na http://pyladies.cz.
+
+    Domácí úkoly k jednotlivým lekcím najdeš na https://projekty.pyladies.cz/.
+
+    Zpětnou vazbu na konci každé lekce můžeš zadat na https://zpetnovazebnik.pyladies.cz/. 
 vars:
   pyladies: true
   coach-present: true
