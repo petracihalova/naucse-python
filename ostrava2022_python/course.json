@@ -1700,7 +1700,7 @@
                 "title": "Snake"
             }
         },
-        "long_description": "<p>Vítáme tě v Začátečnickém kurzu Pythonu od PyLadies Ostrava.</p>\n<p>Níže najdeš materiály ke kurzu, který začíná 12. 10. 2022.</p>\n<p>Jednotlivé lekce jsou určeny naprostým začátečnicím. Instrukce jsou uvedeny pro operační systémy Linux, Windows i macOS.</p>\n<p>Stránky samotných PyLadies najdeš na <a href=\"http://pyladies.cz\">http://pyladies.cz</a>.</p>",
+        "long_description": "<p>Vítáme tě v Začátečnickém kurzu Pythonu od PyLadies Ostrava.</p>\n<p>Níže najdeš materiály ke kurzu, který začíná 12. 10. 2022.</p>\n<p>Jednotlivé lekce jsou určeny naprostým začátečnicím. Instrukce jsou uvedeny pro operační systémy Linux, Windows i macOS.</p>\n<p>Stránky samotných PyLadies najdeš na <a href=\"http://pyladies.cz\">http://pyladies.cz</a>.</p>\n<p>Domácí úkoly k jednotlivým lekcím najdeš na <a href=\"https://projekty.pyladies.cz/\">https://projekty.pyladies.cz/</a>.</p>\n<p>Zpětnou vazbu na konci každé lekce můžeš zadat na <a href=\"https://zpetnovazebnik.pyladies.cz/\">https://zpetnovazebnik.pyladies.cz/</a>.</p>",
         "place": "Tieto Towers, 28. října 3346/91, Moravská Ostrava, Ostrava",
         "sessions": [
             {
