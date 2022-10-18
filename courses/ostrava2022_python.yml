@@ -86,6 +86,7 @@ sessions:
   - title: Tahák na debuggování (PDF)
     url: https://pyvec.github.io/cheatsheets/errors/errors-cs.pdf
     type: cheatsheet
+  - lesson: feedback/fb_ov_lesson1
 
 - slug: conditions
   title: Podmínky a funkce
