@@ -1336,6 +1336,30 @@
                 "static_files": {},
                 "title": "Iterátory n-tic"
             },
+            "feedback/fb_ov_lesson1": {
+                "pages": {
+                    "index": {
+                        "attribution": [
+                            "Pro PyLadies Ostrava napsala Petra Číhalová, 2022."
+                        ],
+                        "content": {
+                            "path": "fb_ov_lesson1/index.html"
+                        },
+                        "license": "cc-by-sa-40",
+                        "slug": "index",
+                        "solutions": [],
+                        "source_file": "lessons/feedback/fb_ov_lesson1/index.ipynb",
+                        "title": "Zpětná vazba k domácím projektům",
+                        "vars": {
+                            "coach-present": true,
+                            "pyladies": true
+                        }
+                    }
+                },
+                "source_file": "lessons/feedback/fb_ov_lesson1/info.yml",
+                "static_files": {},
+                "title": "Zpětná vazba k domácím projektům"
+            },
             "intro/json": {
                 "pages": {
                     "index": {
@@ -1842,6 +1866,11 @@
                         "external_url": "https://pyvec.github.io/cheatsheets/errors/errors-cs.pdf",
                         "title": "Tahák na debuggování (PDF)",
                         "type": "cheatsheet"
+                    },
+                    {
+                        "lesson_slug": "feedback/fb_ov_lesson1",
+                        "title": "Zpětná vazba k domácím projektům",
+                        "type": "lesson"
                     }
                 ],
                 "serial": "1",
