@@ -1360,6 +1360,30 @@
                 "static_files": {},
                 "title": "Zpětná vazba k domácím projektům"
             },
+            "feedback/fb_ov_lesson3": {
+                "pages": {
+                    "index": {
+                        "attribution": [
+                            "Pro PyLadies Ostrava napsala Petra Číhalová, 2022."
+                        ],
+                        "content": {
+                            "path": "fb_ov_lesson3/index.html"
+                        },
+                        "license": "cc-by-sa-40",
+                        "slug": "index",
+                        "solutions": [],
+                        "source_file": "lessons/feedback/fb_ov_lesson3/index.ipynb",
+                        "title": "Zpětná vazba k domácím projektům",
+                        "vars": {
+                            "coach-present": true,
+                            "pyladies": true
+                        }
+                    }
+                },
+                "source_file": "lessons/feedback/fb_ov_lesson3/info.yml",
+                "static_files": {},
+                "title": "Zpětná vazba k domácím projektům"
+            },
             "intro/json": {
                 "pages": {
                     "index": {
@@ -1998,6 +2022,11 @@
                     {
                         "title": "Další odkazy a materiály",
                         "type": "special"
+                    },
+                    {
+                        "lesson_slug": "feedback/fb_ov_lesson3",
+                        "title": "Zpětná vazba k domácím projektům",
+                        "type": "lesson"
                     }
                 ],
                 "serial": "3",
