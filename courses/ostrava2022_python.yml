@@ -141,6 +141,7 @@ sessions:
     url: https://youtu.be/fFh1LiksgdA
 
   - title: Další odkazy a materiály
+  - lesson: feedback/fb_ov_lesson3
 
 - slug: strings
   title: Řetězce
