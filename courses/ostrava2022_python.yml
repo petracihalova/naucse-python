@@ -273,6 +273,8 @@ sessions:
 
 
   - title: Další odkazy a materiály
+  
+  - lesson: beginners/vscode
 
 - slug: file
   title: Sekvence a soubory
