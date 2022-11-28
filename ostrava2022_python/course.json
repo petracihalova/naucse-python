@@ -1257,6 +1257,85 @@
                 },
                 "title": "Nastavení prostředí"
             },
+            "beginners/vscode": {
+                "pages": {
+                    "index": {
+                        "attribution": [
+                            "Pro PyLadies Ostrava napsal Michal Vašut, 2022."
+                        ],
+                        "content": {
+                            "path": "vscode/index.html"
+                        },
+                        "license": "cc-by-sa-40",
+                        "slug": "index",
+                        "solutions": [],
+                        "source_file": "lessons/beginners/vscode/index.md",
+                        "title": "VS Code & Python",
+                        "vars": {
+                            "coach-present": true,
+                            "pyladies": true
+                        }
+                    }
+                },
+                "source_file": "lessons/beginners/vscode/info.yml",
+                "static_files": {
+                    "cmd-cmd.png": {
+                        "path": "vscode/cmd-cmd.png"
+                    },
+                    "cmd-pallete.png": {
+                        "path": "vscode/cmd-pallete.png"
+                    },
+                    "cmd-terminal.png": {
+                        "path": "vscode/cmd-terminal.png"
+                    },
+                    "create-venv.png": {
+                        "path": "vscode/create-venv.png"
+                    },
+                    "extension.png": {
+                        "path": "vscode/extension.png"
+                    },
+                    "new_venv.png": {
+                        "path": "vscode/new_venv.png"
+                    },
+                    "pytest-1.png": {
+                        "path": "vscode/pytest-1.png"
+                    },
+                    "pytest-2.png": {
+                        "path": "vscode/pytest-2.png"
+                    },
+                    "pytest-error.png": {
+                        "path": "vscode/pytest-error.png"
+                    },
+                    "pytest.png": {
+                        "path": "vscode/pytest.png"
+                    },
+                    "terminal-kill.png": {
+                        "path": "vscode/terminal-kill.png"
+                    },
+                    "terminal.png": {
+                        "path": "vscode/terminal.png"
+                    },
+                    "tests-config.png": {
+                        "path": "vscode/tests-config.png"
+                    },
+                    "tests-folder.png": {
+                        "path": "vscode/tests-folder.png"
+                    },
+                    "tests-settings.png": {
+                        "path": "vscode/tests-settings.png"
+                    },
+                    "venv-panel.png": {
+                        "path": "vscode/venv-panel.png"
+                    },
+                    "venv-python.png": {
+                        "path": "vscode/venv-python.png"
+                    },
+                    "venv-type.png": {
+                        "path": "vscode/venv-type.png"
+                    }
+                },
+                "title": "VS Code & Python"
+            },
             "beginners/while": {
                 "pages": {
                     "index": {
@@ -2327,6 +2406,11 @@
                     {
                         "title": "Další odkazy a materiály",
                         "type": "special"
+                    },
+                    {
+                        "lesson_slug": "beginners/vscode",
+                        "title": "VS Code & Python",
+                        "type": "lesson"
                     }
                 ],
                 "serial": "8",
