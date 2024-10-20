@@ -249,20 +249,6 @@ sessions:
   - title: (13:17) Soubory - video
     url: https://youtu.be/1X4TU_thg7s
 
-- title: Grafika
-  slug: pyglet
-  materials:
-  - title: Studijní materiály
-  - lesson: intro/pyglet
-  - lesson: projects/pong
-  - title: Kód celé hry Pong
-    url:  http://pyladies.cz/v1/s012-pyglet/pong.py
-
-  - title: Další odkazy a materiály
-  - title: Tahák na Pyglet
-    url: https://pyvec.github.io/cheatsheets/pyglet/pyglet-basics-cs.pdf
-    type: cheatsheet
-
 - title: Slovníky
   slug: dict
   materials:
@@ -310,6 +296,20 @@ sessions:
     url: https://youtu.be/x4iJDPOSv4A
   - title: (12:58) Dědičnost - video
     url: https://youtu.be/mqxMmSFiASw
+
+- title: Grafika
+  slug: pyglet
+  materials:
+  - title: Studijní materiály
+  - lesson: intro/pyglet
+  - lesson: projects/pong
+  - title: Kód celé hry Pong
+    url:  http://pyladies.cz/v1/s012-pyglet/pong.py
+
+  - title: Další odkazy a materiály
+  - title: Tahák na Pyglet
+    url: https://pyvec.github.io/cheatsheets/pyglet/pyglet-basics-cs.pdf
+    type: cheatsheet
 
 - title: Závěrečný projekt
   slug: asteroids
