@@ -15,12 +15,31 @@ sessions:
 - title: Instalace
   slug: install
   materials:
+  - title: Studijní materiály
   - lesson: beginners/cmdline
   - lesson: beginners/install
   - lesson: beginners/venv-setup
   - lesson: beginners/first-steps
   - lesson: beginners/install-editor
   - lesson: git/install
+
+  - title: Videa ke shlédnutí
+  - title: (13:50) Příkazová řádka - Linux & macOS - video
+    url: https://youtu.be/GGMg8O4hE0c 
+  - title: (22:34) Příkazová řádka - Windows - video
+    url: https://youtu.be/kriVWJmXpZc
+  - title: (8:15) Instalace Pythonu - Linux - video
+    url: https://youtu.be/7Qi7cSkoBA0
+  - title: (4:48) Instalace Pythonu - Windows - video
+    url: https://youtu.be/Xr6liKJzRGA
+  - title: (7:48) Nastavení prostředí - video
+    url: https://youtu.be/AFVvpfQB0V0
+  - title: (7:23) První krůčky - video
+    url: https://youtu.be/0Poe25XdKIA
+  - title: (8:01) Instalace editoru - video
+    url: https://youtu.be/JcXUCuneX04
+
+  - title: Další odkazy a materiály
   - title: Tahák na klávesnici (PDF)
     url: https://pyvec.github.io/cheatsheets/keyboard/keyboard-cs.pdf
     type: cheatsheet
@@ -28,21 +47,56 @@ sessions:
 - title: První program
   slug: hello
   materials:
+  - title: Studijní materiál
   - lesson: beginners/hello-world
   - lesson: beginners/print
   - lesson: beginners/variables
   - lesson: beginners/comparisons
   - lesson: beginners/and-or
 
+  - title: Videa ke shlédnutí
+  - title: (7:50) První program - video
+    url: https://youtu.be/9aJcvOfleFs
+  - title: (12:38) Print a chybové hlášky - video
+    url: https://youtu.be/14-LVG9Edng
+  - title: (15:08) Proměnné - video
+    url: https://youtu.be/-zKws24FmCg
+  - title: (17:27) Porovnání - video
+    url: https://youtu.be/Q1YJqWzfnck
+  - title: (7:58) Nebo anebo a - video
+    url: https://youtu.be/5Mc-cgoaM10
+
+  - title: Další odkazy a materiály
+  - title: Tahák na debuggování (PDF)
+    url: https://pyvec.github.io/cheatsheets/errors/errors-cs.pdf
+    type: cheatsheet
+
 - title: Cykly
   slug: loops
   materials:
+  - title: Studijní materiál
   - lesson: beginners/expressions
   - lesson: beginners/functions
   - lesson: beginners/basic-functions
   - lesson: intro/turtle
   - lesson: beginners/while
   - lesson: beginners/reassignment
+
+  - title: Videa ke shlédnutí
+  - title: (8:32) Vyhodnocování výrazů - video
+    url: https://youtu.be/nNXDXuN6Smg
+  - title: (17:26) Funkce - video
+    url: https://youtu.be/w_d8VKS8i48
+  - title: (15:51) Užitečné funkce - video
+    url: https://youtu.be/udEOvGIuZrs
+  - title: (33:02) Želva a cykly - video
+    url: https://youtu.be/A__45ibnsnc
+  - title: (6:57) Cyklus While - video
+    url: https://youtu.be/I_mkND45dB0
+  - title: (9:28) Přepisování proměnných - video
+    url: https://youtu.be/fFh1LiksgdA
+
+  - title: Další odkazy a materiály
   - title: Tahák s užitečnými funkcemi
     url: https://pyvec.github.io/cheatsheets/basic-functions/basic-functions-cs.pdf
     type: cheatsheet
@@ -50,8 +104,11 @@ sessions:
 - title: Správa zdrojového kódu
   slug: git
   materials:
+  - title: Studijní materiál
   - lesson: git/basics
   - lesson: git/branching
+
+  - title: Další odkazy a materiály
   - title: Gitový tahák
     url: https://pyvec.github.io/cheatsheets/basic-git/basic-git-cs.pdf
     type: cheatsheet
@@ -59,10 +116,23 @@ sessions:
 - title: Řetězce
   slug: def-str
   materials:
+  - title: Studijní materiály
   - lesson: beginners/str
   - lesson: beginners/str-index-slice
   - lesson: beginners/str-methods
   - lesson: beginners/fstring
+
+  - title: Videa ke shlédnutí
+  - title: (19:54) Zápis řetězců - video
+    url: https://youtu.be/xdZWIvryP20
+  - title: (16:12) Výběr z řetězců - video
+    url: https://youtu.be/QOamCtzLPAo
+  - title: (9:19) Řetězcové funkce a metody - video
+    url: https://youtu.be/I3CB2YihRh8
+  - title: (11:52) Šablony (formátovací řetězce) - video
+    url: https://youtu.be/2-r2e9aM1HU
+    
+  - title: Další odkazy a materiály
   - title: Řetězcový tahák
     url: https://pyvec.github.io/cheatsheets/strings/strings-cs.pdf
     type: cheatsheet
@@ -70,17 +140,40 @@ sessions:
 - title: Definice funkcí
   slug: def
   materials:
+  - title: Studijní materiály
   - lesson: beginners/def
   - lesson: beginners/prefer-return
   - lesson: beginners/nested-traceback
   - lesson: beginners/local-variables
+  - lesson: beginners/recursion
+
+  - title: Videa ke shlédnutí
+  - title: (17:01) Definice funkcí - video
+    url: https://youtu.be/6a-RjR9fNBY
+  - title: (8:54) Vrátit nebo vypsat? - video
+    url: https://youtu.be/4M6Yq9ZyObs
+  - title: (3:58) Chybové hlášky ze zanořených funkcí - video
+    url: https://youtu.be/I_DpjBDQy_k
+  - title: (14:25) Lokální proměnné - video
+    url: https://youtu.be/gbjXnMmuAxw
+  - title: (12:23) Rekurze - video
+    url: https://youtu.be/Vu6_jK8OiAI
 
 - title: Chyby a moduly
   slug: exc
   materials:
+  - title: Studijní materiály
   - lesson: beginners/exceptions
   - lesson: beginners/modules
   # XXX when homework is added, include lesson: beginners/circular-imports
+
+  - title: Videa ke shlédnutí
+  - title: (17:11) Výjimky - video
+    url: https://youtu.be/s-P5mBjUJBw
+  - title: (10:32) Moduly - video
+    url: https://youtu.be/LFp_x7OgCBU
+
+  - title: Další odkazy a materiály
   - title: Výjimkový tahák
     url: https://pyvec.github.io/cheatsheets/exceptions/exceptions-cs.pdf
     type: cheatsheet
@@ -88,15 +181,30 @@ sessions:
 - title: Rozhraní a testy
   slug: tests
   materials:
+
+  - title: Studijní materiály
   - lesson: beginners/interfaces
   - lesson: beginners/testing
   - lesson: beginners/main-module
 
+  - title: Videa ke shlédnutí
+  - title: (6:51) Rozhraní - video
+    url: https://youtu.be/xQ7J_R8VAJQ
+  - title: (15:25) Testování - video
+    url: https://youtu.be/-KS_VRerZQ0
+  - title: (10:12) Spouštěcí moduly - video
+    url: https://youtu.be/S6HyFIUyPTw
+  - title: (3:53) Negativní testy - video
+    url: https://youtu.be/s-KPxX5ZcMs
+
 - title: Spolupráce a Open-Source
   slug: foss
   materials:
+  - title: Studijní materiály
   - lesson: git/collaboration
   - lesson: git/ignoring
+
+  - title: Další odkazy a materiály
   - title: Gitový tahák
     url: https://pyvec.github.io/cheatsheets/basic-git/basic-git-cs.pdf
     type: cheatsheet
@@ -104,26 +212,53 @@ sessions:
 - title: Seznamy
   slug: list
   materials:
+  - title: Studijní materiály
   - lesson: beginners/list
   - lesson: beginners/tuple
   - lesson: beginners/nested-list
+
+  - title: Videa ke shlédnutí
+  - title: (11:10) Seznamy - Úvod - video
+    url: https://youtu.be/abIMJjb9Nxw
+  - title: (32:52) Co všechno umí seznamy - video
+    url: https://youtu.be/-gINX_pOtQo
+  - title: (9:51) N-tice - video
+    url: https://youtu.be/dObtA75Ouzk
+
+
+  - title: Další odkazy a materiály
   - title: Tahák na seznamy
     url: https://pyvec.github.io/cheatsheets/lists/lists-cs.pdf
     type: cheatsheet
+  - lesson: beginners/vscode
 
 - title: Sekvence a soubory
   slug: seq
   materials:
+  - title: Studijní materiály
   - lesson: beginners/range
   - lesson: beginners/zip-enumerate
   - lesson: beginners/files
   - lesson: beginners/with
 
+  - title: Videa ke shlédnutí
+  - title: (5:02) Range - video
+    url: https://youtu.be/UtyIKgsnLmk
+  - title: (16:39) Iterátory n-tic (enum & zip) - video
+    url: https://youtu.be/JUCb7iiGsW4
+  - title: (13:17) Soubory - video
+    url: https://youtu.be/1X4TU_thg7s
+
 - title: Grafika
   slug: pyglet
   materials:
+  - title: Studijní materiály
   - lesson: intro/pyglet
   - lesson: projects/pong
+  - title: Kód celé hry Pong
+    url:  http://pyladies.cz/v1/s012-pyglet/pong.py
+
+  - title: Další odkazy a materiály
   - title: Tahák na Pyglet
     url: https://pyvec.github.io/cheatsheets/pyglet/pyglet-basics-cs.pdf
     type: cheatsheet
@@ -131,24 +266,62 @@ sessions:
 - title: Slovníky
   slug: dict
   materials:
+  - title: Studijní materiály
   - lesson: beginners/dict
-  - lesson: intro/json
-  - lesson: projects/github-api
   - lesson: beginners/dict-with-list-values
+
+  - title: Videa ke shlédnutí
+  - title: (19:23) Slovníky - video
+    url: https://youtu.be/OVnUhWwd2C0
+  - title: (4:42) Více hodnot v jednom záznamu slovníku - video
+    url: https://youtu.be/pQ268T2IZCo
+
+  - title: Další odkazy a materiály
   - title: Slovníkový tahák
     url: https://pyvec.github.io/cheatsheets/dicts/dicts-cs.pdf
     type: cheatsheet
 
+- title: JSON a API
+  slug: json
+  materials:
+  - lesson: intro/json
+  - lesson: projects/github-api
+  - title: Ukázka jednoduchého API
+    type: lesson
+    url: http://pyladies.cz/v1/s011-dicts/simple-api.html
+
+  - title: Videa ke shlédnutí
+  - title: (12:54) Kódování dat - JSON - video
+    url: https://youtu.be/nPUSH7gSI4o
+
+  - title: Další odkazy a materiály
+  - title: Co je API? (externí materiál)
+    url: https://cojeapi.cz
+
 - title: Třídy
   slug: class
   materials:
+  - title: Studijní materiály
   - lesson: beginners/class
   - lesson: beginners/inheritance
+
+  - title: Videa ke shlédnutí
+  - title: (22:26) Třídy - video
+    url: https://youtu.be/x4iJDPOSv4A
+  - title: (12:58) Dědičnost - video
+    url: https://youtu.be/mqxMmSFiASw
 
 - title: Závěrečný projekt
   slug: asteroids
   materials:
+  - title: Studijní materiály
   - lesson: projects/asteroids
+  - lesson: projects/snake
+  - lesson: klondike/cards
+  - lesson: klondike/decks
+  - lesson: klondike/game
+
+  - title: Další odkazy a materiály
   - title: Množinový tahák
     url: https://pyvec.github.io/cheatsheets/sets/sets-cs.pdf
     type: cheatsheet
